@@ -1,4 +1,11 @@
-<p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/lumacorp-logo-dark.png">
+    <a href="https://github.com/LumaCorp"><img src="../assets/lumacorp-logo-dark.png" alt="LumaCorp" width="420"></a>
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/LumaCorp/agentic-engineering-systems"><img src="../assets/aes-logo-square-dark.png" alt="Agentic Engineering Systems" width="240"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/LumaStack"><img src="../assets/luma-stack-square-logo-dark.png" alt="LumaStack" width="240"></a>
