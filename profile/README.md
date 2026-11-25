@@ -8,9 +8,9 @@
 # Our Portfolio (Under Early Development)
 
 <p>
-  <a href="https://github.com/LumaStack"><img src="../assets/luma-stack-square-logo-dark.png" alt="LumaStack" width="240"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/LumaCorp/agentic-engineering-systems"><img src="../assets/aes-logo-square-dark.png" alt="Agentic Engineering Systems" width="240"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LumaStack"><img src="../assets/luma-stack-square-logo-dark.png" alt="LumaStack" width="240"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/LumaWorkshop"><img src="../assets/luma-workshop-logo-square-dark.png" alt="Luma Workshop" width="240"></a>
   &nbsp;&nbsp;
