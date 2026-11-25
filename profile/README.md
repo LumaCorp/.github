@@ -8,8 +8,6 @@
 ## Developing
 
 <p align="center">
-  <a href="https://github.com/LumaCorp"><img src="../assets/lumacorp-logo-square-dark.png" alt="LumaCorp" width="240"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/LumaStack"><img src="../assets/luma-stack-square-logo-dark.png" alt="LumaStack" width="240"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/LumaCorp/agentic-engineering-systems"><img src="../assets/aes-logo-square-dark.png" alt="Agentic Engineering Systems" width="240"></a>
