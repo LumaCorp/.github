@@ -1,12 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/lumacorp-logo-dark.png">
-    <a href="https://github.com/LumaCorp"><img src="../assets/lumacorp-logo-light.png" alt="LumaCorp" width="420"></a>
-  </picture>
-</p>
-
-# Our Portfolio (Under Early Development)
-
 <p>
   <a href="https://github.com/LumaCorp/agentic-engineering-systems"><img src="../assets/aes-logo-square-dark.png" alt="Agentic Engineering Systems" width="240"></a>
   &nbsp;&nbsp;
